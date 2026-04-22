@@ -22,6 +22,7 @@ exe = EXE(
     [],
     exclude_binaries=True,
     name='SpurGearCalculator',
+    icon='assets\\spur_gear.ico',
     debug=False,
     bootloader_ignore_signals=False,
     strip=False,
